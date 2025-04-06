@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Songs DB P1</string>
+
+    <!-- Song Dialog -->
+    <string name="song">Song</string>
+    <!-- Dialog Guardar -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="song_created">Song saved successfully</string>
+    <string name="error_song_created">Error saving the song</string>
+    <!-- Dialog Actualizar/Eliminar -->
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="song_updated">Song updated successfully</string>
+    <string name="error_song_updated">Error updating the song</string>
+    <!-- Dialog Eliminar -->
+    <string name="confirmation">Confirmation</string>
+    <string name="delete_confirmation">¿Do you really want to delete the song "%1$s"?</string>
+    <string name="ok">Accept</string>
+    <string name="song_deleted">Song deleted successfully</string>
+    <string name="error_song_deleted">Error deleting the song</string>
+
+    <!-- Activity Main.xml -->
+    <string name="no_registers">¡There are no registers!</string>
+    <string name="add_element">Add song</string>
+    <!-- Song Element.xml y Song Dialog.xml -->
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="genre">Genre</string>
+    <!-- Song Dialog.xml -->
+    <string name="header">Header</string>
+    <!-- Song Element.xml -->
+    <string name="image">Image</string>
+</resources>
